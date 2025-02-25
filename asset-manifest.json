@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ccbcc33.css",
-    "main.js": "/static/js/main.1ac70cd4.js",
+    "main.css": "/static/css/main.becd36c1.css",
+    "main.js": "/static/js/main.f69c26ce.js",
     "static/media/cutscene-2.gif": "/static/media/cutscene-2.474d7a719116b1b9c4c7.gif",
     "static/media/cutscene-1.gif": "/static/media/cutscene-1.bfce9fd48b3a28056bf0.gif",
     "static/media/2d-platform.gif": "/static/media/2d-platform.f94f834eb3f5b94b8885.gif",
@@ -18,20 +18,30 @@
     "static/media/headshot.png": "/static/media/headshot.c28e88ced00ae738419a.png",
     "static/media/body-shot.jpg": "/static/media/body-shot.427969a7595f09b6511f.jpg",
     "static/media/project-2-2.png": "/static/media/project-2-2.866014ffce856f83816f.png",
+    "static/media/diagram-integration.jpeg": "/static/media/diagram-integration.c724b73cbf59425b066c.jpeg",
     "static/media/rift-throwable.webp": "/static/media/rift-throwable.d6a952702b83e4af39cc.webp",
     "static/media/cutscene-2.webp": "/static/media/cutscene-2.c37dc554659541090dd0.webp",
+    "static/media/browse.jpeg": "/static/media/browse.179a605b98cffb4e47da.jpeg",
     "static/media/gameplay.webp": "/static/media/gameplay.16042fa006f29e69a89c.webp",
     "static/media/2d-3d.webp": "/static/media/2d-3d.47ee7a24f8dd226fb0fd.webp",
+    "static/media/soundcloud-integration.jpeg": "/static/media/soundcloud-integration.dc7de3350ffafe56a67b.jpeg",
     "static/media/project-2-4.png": "/static/media/project-2-4.96c5aa2f3d10c2f62d22.png",
+    "static/media/pitch-detection.gif": "/static/media/pitch-detection.6254f86c408b0c0f4947.gif",
+    "static/media/blog-hero.jpeg": "/static/media/blog-hero.a93c6fb8b55c69707dd4.jpeg",
     "static/media/project-2-3.png": "/static/media/project-2-3.5bb45a5a23efaf1fa9ed.png",
     "static/media/project-2-1.png": "/static/media/project-2-1.2f1f1d6558d878051ced.png",
+    "static/media/profile.jpg": "/static/media/profile.a038a97ce3fb2b4a0855.jpg",
+    "static/media/browse.jpg": "/static/media/browse.135fd0524bc34d48c56e.jpg",
+    "static/media/authentication.jpg": "/static/media/authentication.0428258d5faa38573654.jpg",
+    "static/media/song-playback.jpg": "/static/media/song-playback.9b4807795bad41b73456.jpg",
+    "static/media/pitch-detection.jpg": "/static/media/pitch-detection.c060ac52733b645645f5.jpg",
     "static/media/itchIo.svg": "/static/media/itchIo.9faf3187616b105bc094638c1a59c27d.svg",
     "index.html": "/index.html",
-    "main.7ccbcc33.css.map": "/static/css/main.7ccbcc33.css.map",
-    "main.1ac70cd4.js.map": "/static/js/main.1ac70cd4.js.map"
+    "main.becd36c1.css.map": "/static/css/main.becd36c1.css.map",
+    "main.f69c26ce.js.map": "/static/js/main.f69c26ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ccbcc33.css",
-    "static/js/main.1ac70cd4.js"
+    "static/css/main.becd36c1.css",
+    "static/js/main.f69c26ce.js"
   ]
 }
