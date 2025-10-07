@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.abca33e2.css",
-    "main.js": "/static/js/main.0133328c.js",
+    "main.js": "/static/js/main.293680f0.js",
     "static/media/cutscene-2.gif": "/static/media/cutscene-2.474d7a719116b1b9c4c7.gif",
     "static/media/cutscene-1.gif": "/static/media/cutscene-1.bfce9fd48b3a28056bf0.gif",
     "static/media/2d-platform.gif": "/static/media/2d-platform.f94f834eb3f5b94b8885.gif",
@@ -23,12 +23,17 @@
     "static/media/cutscene-2.webp": "/static/media/cutscene-2.c37dc554659541090dd0.webp",
     "static/media/browse.jpeg": "/static/media/browse.179a605b98cffb4e47da.jpeg",
     "static/media/gameplay.webp": "/static/media/gameplay.16042fa006f29e69a89c.webp",
+    "static/media/temporal-view.jpeg": "/static/media/temporal-view.572b02599c1dd4d3eea5.jpeg",
     "static/media/2d-3d.webp": "/static/media/2d-3d.47ee7a24f8dd226fb0fd.webp",
     "static/media/soundcloud-integration.jpeg": "/static/media/soundcloud-integration.dc7de3350ffafe56a67b.jpeg",
+    "static/media/map-view.jpeg": "/static/media/map-view.3dd7ead02b9fab2ea93c.jpeg",
     "static/media/project-2-4.png": "/static/media/project-2-4.96c5aa2f3d10c2f62d22.png",
+    "static/media/data-view.jpeg": "/static/media/data-view.5cb8ba6aca6a7d6500ae.jpeg",
+    "static/media/cover.jpeg": "/static/media/cover.7120f861ee02fc6a2ddb.jpeg",
     "static/media/pitch-detection.gif": "/static/media/pitch-detection.6254f86c408b0c0f4947.gif",
     "static/media/blog-hero.jpeg": "/static/media/blog-hero.a93c6fb8b55c69707dd4.jpeg",
     "static/media/project-2-3.png": "/static/media/project-2-3.5bb45a5a23efaf1fa9ed.png",
+    "static/media/chart-view.jpeg": "/static/media/chart-view.33b8284edd8e58cdab76.jpeg",
     "static/media/project-2-1.png": "/static/media/project-2-1.2f1f1d6558d878051ced.png",
     "static/media/profile.jpg": "/static/media/profile.a038a97ce3fb2b4a0855.jpg",
     "static/media/browse.jpg": "/static/media/browse.135fd0524bc34d48c56e.jpg",
@@ -38,10 +43,10 @@
     "static/media/itchIo.svg": "/static/media/itchIo.9faf3187616b105bc094638c1a59c27d.svg",
     "index.html": "/index.html",
     "main.abca33e2.css.map": "/static/css/main.abca33e2.css.map",
-    "main.0133328c.js.map": "/static/js/main.0133328c.js.map"
+    "main.293680f0.js.map": "/static/js/main.293680f0.js.map"
   },
   "entrypoints": [
     "static/css/main.abca33e2.css",
-    "static/js/main.0133328c.js"
+    "static/js/main.293680f0.js"
   ]
 }
